@@ -23,7 +23,7 @@
 ## 二、所用技术
 
 - 后端使用Java+ssm+MyBatis+MySQL+shiro
-- 前端使用jsp
+- 前端使用jsp+bootstrap
 
 
 ## 三、环境介绍
